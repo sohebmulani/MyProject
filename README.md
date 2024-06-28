@@ -1,2 +1,4 @@
 # My First Project
-Name - soheb mulani
+Name = soheb mulani
+city = sangli
+Edu = MCA
